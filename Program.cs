@@ -16,12 +16,12 @@ namespace Measurement_Application_github_practice
 
             Console.WriteLine("Length?");
             string Length = Console.ReadLine();
-            int LengthF = int.Parse(Length);
+            double LengthF = double.Parse(Length);
             Console.WriteLine("Width?");
             string Width = Console.ReadLine();
-            int WidthF = int.Parse(Width);
-            int area = LengthF * WidthF;
-            int peremiter = WidthF * 2 + LengthF * 2;
+            double WidthF = double.Parse(Width);
+            double area = LengthF * WidthF;
+            double peremiter = WidthF * 2 + LengthF * 2;
             Console.WriteLine("Area is " + area );
             Console.WriteLine("Peremiter is " + peremiter);
         }
