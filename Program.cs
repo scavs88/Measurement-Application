@@ -6,18 +6,17 @@ namespace Measurement_Application_github_practice
     {
         static void Main(string[] args)
         {
-            //  Get length of rectangle 
-            //  get width of rectangle
-            //  Calculate area and perimeter
-            //  display those values
-            //  make new github
-            //  push to github
+            // User inputs length and width, program calculates area and peremiter
 
 
-            Console.WriteLine("Length?");
+
+
+
+
+            Console.WriteLine("Length of rectangle?");
             string Length = Console.ReadLine();
             double LengthF = double.Parse(Length);
-            Console.WriteLine("Width?");
+            Console.WriteLine("Width of rectangle?");
             string Width = Console.ReadLine();
             double WidthF = double.Parse(Width);
             double area = LengthF * WidthF;
