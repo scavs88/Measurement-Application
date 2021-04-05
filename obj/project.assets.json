@@ -8,20 +8,30 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\spcav\\.nuget\\packages\\": {}
+    "C:\\Users\\Computer\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\spcav\\source\\repos\\Measurement Application github practice\\Measurement Application github practice\\Measurement Application github practice.csproj",
+      "projectUniqueName": "C:\\Users\\Computer\\Desktop\\New folder\\Measurement-Application\\Measurement Application github practice.csproj",
       "projectName": "Measurement Application github practice",
-      "projectPath": "C:\\Users\\spcav\\source\\repos\\Measurement Application github practice\\Measurement Application github practice\\Measurement Application github practice.csproj",
-      "packagesPath": "C:\\Users\\spcav\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\spcav\\source\\repos\\Measurement Application github practice\\Measurement Application github practice\\obj\\",
+      "projectPath": "C:\\Users\\Computer\\Desktop\\New folder\\Measurement-Application\\Measurement Application github practice.csproj",
+      "packagesPath": "C:\\Users\\Computer\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Computer\\Desktop\\New folder\\Measurement-Application\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
       "configFilePaths": [
-        "C:\\Users\\spcav\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\Computer\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
@@ -60,7 +70,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
       }
     }
   }

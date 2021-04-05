@@ -10,3 +10,16 @@ C:\Users\spcav\source\repos\Measurement Application github practice\Measurement 
 C:\Users\spcav\source\repos\Measurement Application github practice\Measurement Application github practice\obj\Debug\netcoreapp3.1\Measurement Application github practice.dll
 C:\Users\spcav\source\repos\Measurement Application github practice\Measurement Application github practice\obj\Debug\netcoreapp3.1\Measurement Application github practice.pdb
 C:\Users\spcav\source\repos\Measurement Application github practice\Measurement Application github practice\obj\Debug\netcoreapp3.1\Measurement Application github practice.genruntimeconfig.cache
+C:\Users\Computer\Desktop\New folder\Measurement-Application\bin\Debug\netcoreapp3.1\Measurement Application github practice.exe
+C:\Users\Computer\Desktop\New folder\Measurement-Application\bin\Debug\netcoreapp3.1\Measurement Application github practice.deps.json
+C:\Users\Computer\Desktop\New folder\Measurement-Application\bin\Debug\netcoreapp3.1\Measurement Application github practice.runtimeconfig.json
+C:\Users\Computer\Desktop\New folder\Measurement-Application\bin\Debug\netcoreapp3.1\Measurement Application github practice.runtimeconfig.dev.json
+C:\Users\Computer\Desktop\New folder\Measurement-Application\bin\Debug\netcoreapp3.1\Measurement Application github practice.dll
+C:\Users\Computer\Desktop\New folder\Measurement-Application\bin\Debug\netcoreapp3.1\Measurement Application github practice.pdb
+C:\Users\Computer\Desktop\New folder\Measurement-Application\obj\Debug\netcoreapp3.1\Measurement Application github practice.csprojAssemblyReference.cache
+C:\Users\Computer\Desktop\New folder\Measurement-Application\obj\Debug\netcoreapp3.1\Measurement Application github practice.AssemblyInfoInputs.cache
+C:\Users\Computer\Desktop\New folder\Measurement-Application\obj\Debug\netcoreapp3.1\Measurement Application github practice.AssemblyInfo.cs
+C:\Users\Computer\Desktop\New folder\Measurement-Application\obj\Debug\netcoreapp3.1\Measurement Application github practice.csproj.CoreCompileInputs.cache
+C:\Users\Computer\Desktop\New folder\Measurement-Application\obj\Debug\netcoreapp3.1\Measurement Application github practice.dll
+C:\Users\Computer\Desktop\New folder\Measurement-Application\obj\Debug\netcoreapp3.1\Measurement Application github practice.pdb
+C:\Users\Computer\Desktop\New folder\Measurement-Application\obj\Debug\netcoreapp3.1\Measurement Application github practice.genruntimeconfig.cache
